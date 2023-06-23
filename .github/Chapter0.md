@@ -18,6 +18,7 @@ In this blog series, "The AI Augmented SDLC," we delve into how AI can integrate
 9. [**End of Life**](Chapter9.md): How AI could assist in data migration and system shutdowns.
 10. [**Recap**](Chapter10.md): Summarizing the potential roles of AI across each phase of the Agile SDLC, reinforcing the integration of AI and Agile development.
 [**Epilogue**](Epilogue.md): An overview of how this series was written.
+
 We aim to provide an in-depth look at these topics, offering practical use-cases and real-world examples of AI within the Agile SDLC. Our objective is to ensure that you gain insights that could help you visualize possible implementations of these AI technologies in your own contexts.
 
 Join us in this insightful exploration as we delve into the potential ways AI could revolutionize the Agile SDLC.
