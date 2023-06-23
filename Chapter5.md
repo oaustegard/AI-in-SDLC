@@ -1,7 +1,6 @@
 # The AI Augmented SDLC
 
-[Chapter 0](Chapter0.md) | [Chapter 1](Chapter1.md) | [Chapter 2](Chapter2.md) | [Chapter 3](Chapter3.md) | [Chapter 4](Chapter4.md)
-
+[Intro](index.md)/[Chapter 1](Chapter1.md)/[Chapter 2](Chapter2.md)/[Chapter 3](Chapter3.md)/[Chapter 4](Chapter4.md)
 ## Chapter 5: AI in Testing
 
 Artificial intelligence has proved its worth not only in the stages of ideation, feasibility analysis, requirements gathering, and coding, but it also shows immense potential in the software testing phase of the Agile SDLC. In this chapter, we explore the multifaceted applications of GPT-4 in automated testing and bug prediction.

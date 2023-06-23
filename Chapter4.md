@@ -1,7 +1,6 @@
 # The AI Augmented SDLC
 
-[Chapter 0](Chapter0.md) | [Chapter 1](Chapter1.md) | [Chapter 2](Chapter2.md) | [Chapter 3](Chapter3.md)
-
+[Intro](index.md)/[Chapter 1](Chapter1.md)/[Chapter 2](Chapter2.md)/[Chapter 3](Chapter3.md)
 ## Chapter 4: AI in Iterative Design and Coding
 
 Design and coding are core activities in the Agile SDLC. They involve creating a design for the solution and then translating this design into code. Here's where the advancements in AI, particularly the capabilities of GPT-4, shine brightly.

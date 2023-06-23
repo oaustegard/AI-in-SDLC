@@ -1,7 +1,6 @@
 # The AI Augmented SDLC
 
-[Chapter 0](Chapter0.md) | [Chapter 1](Chapter1.md) | [Chapter 2](Chapter2.md)
-
+[Chapter 0](index.md)/[Chapter 1](Chapter1.md)/[Chapter 2](Chapter2.md)
 ## Chapter 3: Harnessing AI in Requirements Gathering and Prioritization
 
 Agile teams understand the criticality of getting requirements right and their constant evolution over the development life-cycle. Prioritizing these requirements for each sprint can be a daunting task, especially for large, complex projects. Enter AI. 
