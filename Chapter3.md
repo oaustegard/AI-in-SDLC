@@ -18,4 +18,4 @@ Both of these use cases not only improve efficiency but also ensure a more objec
 
 Stay tuned for the next post where we will dive into AI's role in design and coding. From iterative design to writing unit tests, we will explore how AI is revolutionizing these processes.
 
-[Chapter 4: Design & Coding](Chapter4.md)]
+[Chapter 4: Design & Coding](Chapter4.md)
