@@ -1,6 +1,7 @@
 # The AI Augmented SDLC
 
-[Intro](index.md)
+###### [Intro](index.md)/[Ideation](Chapter1.md)/[Feasibility](Chapter2.md)/[Requirements](Chapter3.md)/[Design & Coding](Chapter4.md)/[Testing](Chapter5.md)/[Deployment](Chapter6.md)/[Operations](Chapter7.md)/[Maintenance](Chapter8.md)/[End of Life](Chapter9.md)/[Recap](Chapter10.md)
+
 ## Chapter 1: AI-Augmented Ideation - Fueling Creativity with Generative AI
 
 The ideation stage is the creative hub of the Agile Software Development Lifecycle (SDLC). It's where we formulate innovative concepts, envision potential products, and sketch out what could eventually become the next game-changing application. In this chapter, we discuss two exciting applications of AI, particularly Generative Pre-training Transformers (GPT-4) and associated technologies like Retrieval-Augmented Generation (RAG), in enhancing this process.
