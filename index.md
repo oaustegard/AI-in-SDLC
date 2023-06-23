@@ -1,5 +1,5 @@
 # The AI Augmented SDLC
-## Chapter 0: Introduction - The Intersection of AI and Agile SDLC
+## Introduction - The Intersection of AI and Agile SDLC
 
 Welcome to our exploration of the fusion between artificial intelligence (AI) and the Agile software development life cycle (SDLC). The protagonist of our journey is GPT-4, an advanced language model developed by OpenAI.
 
