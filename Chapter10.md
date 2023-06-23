@@ -1,6 +1,7 @@
 # The AI Augmented SDLC
 
-[Intro](index.md)/[Chapter 1](Chapter1.md)/[Chapter 2](Chapter2.md)/[Chapter 3](Chapter3.md)/[Chapter 4](Chapter4.md)/[Chapter 5](Chapter5.md)/[Chapter 6](Chapter6.md)/[Chapter 7](Chapter7.md)/[Chapter 8](Chapter8.md)/[Chapter 9](Chapter9.md)
+###### [Intro](index.md)/[Ideation](Chapter1.md)/[Feasibility](Chapter2.md)/[Requirements](Chapter3.md)/[Design & Coding](Chapter4.md)/[Testing](Chapter5.md)/[Deployment](Chapter6.md)/[Operations](Chapter7.md)/[Maintenance](Chapter8.md)/[End of Life](Chapter9.md)/[Recap](Chapter10.md)/[Epilogue](Epilogue.md)
+
 ## Chapter 10: Wrapping Up - The AI Augmented SDLC
 
 Throughout this blog series, "The AI Augmented SDLC", we've delved into how AI, with a focus on GPT and related technologies, embeds itself in every stage of the Agile Software Development Life Cycle (SDLC). We've demonstrated that our advanced AI model, GPT-4, isn't a substitute for human developers but serves as a powerful tool to aid and augment their efforts.

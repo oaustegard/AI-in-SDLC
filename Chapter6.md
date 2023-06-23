@@ -1,6 +1,7 @@
 # The AI Augmented SDLC
 
-[Intro](index.md)/[Chapter 1](Chapter1.md)/[Chapter 2](Chapter2.md)/[Chapter 3](Chapter3.md)/[Chapter 4](Chapter4.md)/[Chapter 5](Chapter5.md)
+###### [Intro](index.md)/[Ideation](Chapter1.md)/[Feasibility](Chapter2.md)/[Requirements](Chapter3.md)/[Design & Coding](Chapter4.md)/[Testing](Chapter5.md)/[Deployment](Chapter6.md)/[Operations](Chapter7.md)/[Maintenance](Chapter8.md)/[End of Life](Chapter9.md)/[Recap](Chapter10.md)/[Epilogue](Epilogue.md)
+
 ## Chapter 6: Deployment
 
 In the Agile SDLC, the deployment stage represents the transition of a software product from a development environment to a production environment. This stage often entails several sub-processes, such as configuration management, release management, and application monitoring. Here, we explore how GPT-4 and its associated technologies can be employed to augment and streamline these sub-processes.

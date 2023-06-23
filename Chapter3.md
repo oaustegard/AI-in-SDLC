@@ -1,6 +1,7 @@
 # The AI Augmented SDLC
 
-[Intro](index.md)/[Chapter 1](Chapter1.md)/[Chapter 2](Chapter2.md)
+###### [Intro](index.md)/[Ideation](Chapter1.md)/[Feasibility](Chapter2.md)/[Requirements](Chapter3.md)/[Design & Coding](Chapter4.md)/[Testing](Chapter5.md)/[Deployment](Chapter6.md)/[Operations](Chapter7.md)/[Maintenance](Chapter8.md)/[End of Life](Chapter9.md)/[Recap](Chapter10.md)/[Epilogue](Epilogue.md)
+
 ## Chapter 3: Harnessing AI in Requirements Gathering and Prioritization
 
 Agile teams understand the criticality of getting requirements right and their constant evolution over the development life-cycle. Prioritizing these requirements for each sprint can be a daunting task, especially for large, complex projects. Enter AI. 

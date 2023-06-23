@@ -1,6 +1,7 @@
 # The AI Augmented SDLC
 
-[Intro](index.md)/[Chapter 1](Chapter1.md)
+###### [Intro](index.md)/[Ideation](Chapter1.md)/[Feasibility](Chapter2.md)/[Requirements](Chapter3.md)/[Design & Coding](Chapter4.md)/[Testing](Chapter5.md)/[Deployment](Chapter6.md)/[Operations](Chapter7.md)/[Maintenance](Chapter8.md)/[End of Life](Chapter9.md)/[Recap](Chapter10.md)/[Epilogue](Epilogue.md)
+
 ## Chapter 2: AI-Augmented Feasibility - Streamlining Assessment with Predictive Analysis
 
 Once we have a solid concept in place, the next step in the Agile Software Development Lifecycle (SDLC) is feasibility assessment. This stage requires thorough examination of the technical, operational, and financial aspects of the idea to ensure its viability. With AI technologies, particularly GPT-4 and its associated capabilities, this process can be significantly optimized. Here, we'll look at two key use-cases.
