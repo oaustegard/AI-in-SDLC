@@ -22,7 +22,7 @@ With GPT-4's advancements, coding has become an even more exciting task.
 
 #### AI-Powered Code Generation
 GPT-4 can write code snippets for specific tasks. For example, if a developer needs a function to filter an array based on certain conditions in JavaScript, they can provide this information to GPT-4. The AI will then generate the required code snippet. This feature can significantly reduce the time developers spend on mundane coding tasks, allowing them to focus on complex and critical parts of the system.  
-[Notes from the editor on Code Generation with ChatGPT](Chapter4_CodeGenerationWithChatGPT.md)
+[Musings from the editor on Code Generation with ChatGPT](Chapter4_CodeGenerationWithChatGPT.md)
 
 #### Automated Unit Test Creation
 GPT-4 can generate unit tests for specific functions or components. Developers can provide the function details and the expected behavior to GPT-4. The AI will then generate unit tests, thus reducing the time spent on writing tests and increasing the coverage of the testing process.
